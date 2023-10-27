@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175650031073",
+    "project_id": "psicologia-9d32a",
+    "storage_bucket": "psicologia-9d32a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175650031073:android:a43947a65e8f76b123fea0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYFKm7OU8AgWzyOMW44vPtSulj26v64-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
