@@ -43,8 +43,6 @@ class DefaultFirebaseOptions {
     }
   }
 
-  
-
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyBdxM0YMFYRJbyVt4O9ZD7s2fATFf1UiHA',
     appId: '1:175650031073:web:38a26ad9f0aa738423fea0',
@@ -68,6 +66,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '175650031073',
     projectId: 'psicologia-9d32a',
     storageBucket: 'psicologia-9d32a.appspot.com',
+    iosClientId: '175650031073-pa341r2dnec37ajspa57aebe8kqfq0hn.apps.googleusercontent.com',
     iosBundleId: 'com.example.flutterApplication1',
   );
 
@@ -77,8 +76,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '175650031073',
     projectId: 'psicologia-9d32a',
     storageBucket: 'psicologia-9d32a.appspot.com',
+    iosClientId: '175650031073-ss9t9j5qg562s2946sre0hvjde1ag5rh.apps.googleusercontent.com',
     iosBundleId: 'com.example.flutterApplication1.RunnerTests',
   );
 }
-
-

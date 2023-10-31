@@ -31,6 +31,7 @@ dependencies:
     sdk: flutter
   firebase_auth: ^4.12.0
   firebase_core: ^2.20.0
+  email_validator: ^2.0.1 # La versión puede variar
 
 
   # Otras dependencias de Firebase y Flutter
